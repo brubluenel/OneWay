@@ -5,7 +5,7 @@
 //  Copyright (c) 2022-2024 SeungYeop Yeom ( https://github.com/DevYeom ).
 //
 
-import OneWay
+@testable import OneWay
 
 #if !os(Linux)
 #if canImport(Testing)
